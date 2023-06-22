@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Backend developer from Indonesia
+A passionate Backend developer
 
 
 ## 🌐 Socials:
